@@ -15,4 +15,4 @@ HTML
 CSS
 JS
 
-* [Ссылка проекта на хостинге GitHub Pages](https://stanmur.github.io/click-on-the-link-js-/index.html)
+* [Ссылка проекта на хостинге GitHub Pages](https://stanmur.github.io/onclick-event-with-a-for-loop/index.html)
